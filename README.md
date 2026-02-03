@@ -1,4 +1,4 @@
-# 📊 Sales & HR Business Intelligence Dashboard
+# Sales & HR Business Intelligence Dashboard
 
 This project presents an end-to-end **Business Intelligence and data analytics solution** built using **Power BI**, designed to transform raw sales and HR data into **clear, actionable insights** for decision-makers.
 
@@ -6,7 +6,7 @@ The dashboard enables stakeholders to quickly understand **revenue performance, 
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Analyse overall business performance using key sales and HR metrics  
 - Identify **top- and bottom-performing products**
@@ -16,7 +16,7 @@ The dashboard enables stakeholders to quickly understand **revenue performance, 
 
 ---
 
-## 🗂 Dataset Overview
+## Dataset Overview
 
 The dataset contains aggregated **Sales** and **Human Resources** data, including:
 
@@ -34,18 +34,18 @@ The dataset contains aggregated **Sales** and **Human Resources** data, includin
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
-### 💰 Sales Analytics
+### Sales Analytics
 - Total revenue of **£185M**
 - Clear identification of **highest-revenue products** and **underperforming products**
 - Comparison of **sales volume vs. revenue**, revealing pricing and demand patterns
 
-### 🌍 Geographic Analysis
+### Geographic Analysis
 - Revenue concentration across **UK, Pakistan, Kenya, and Kuwait**
 - Market-level insights to support regional growth strategies
 
-### 👥 HR Analytics
+### HR Analytics
 - Workforce overview of **384 employees**
 - **85% employee retention rate**
 - Salary distribution analysis highlighting departmental differences
@@ -53,7 +53,7 @@ The dataset contains aggregated **Sales** and **Human Resources** data, includin
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Power BI**
 - **DAX**
@@ -63,20 +63,12 @@ The dataset contains aggregated **Sales** and **Human Resources** data, includin
 
 ---
 
-## 🖥 Dashboard Features
+## Dashboard Features
 
 - Interactive filters by **year, category, and country**
 - Executive KPIs for rapid performance monitoring
 - Drill-down visuals for deeper analysis
 - Clean, minimal design focused on usability
 
----
-
-## 🚀 Future Improvements
-
-- Revenue forecasting using time-series models  
-- Product and customer segmentation  
-- Attrition risk modelling using HR features  
-- Automated data pipelines for real-time updates  
 
 
